@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    margin-top: 300px;
+    width: 150px;
+    height: 75px;
+    border: none;
+    border-radius: 25px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+button {
+    background-color: green;
+}
+button:last-of-type {
+    background-color: red;
+}
